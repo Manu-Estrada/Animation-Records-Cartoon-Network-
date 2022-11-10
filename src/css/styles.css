@@ -2,6 +2,7 @@
 @import url(./resetCss.css);
 @import url(./banner.css);
 @import url(./sections.css);
+@import url(./product.css);
 
 @font-face {
   font-family: "cartoon";
