@@ -1,4 +1,4 @@
-.sections {
+  .sections {
   display: grid;
   grid-template-rows: 11em 11em;
   grid-template-columns: repeat(3, 20em);
