@@ -1,0 +1,9 @@
+@import url(./header.css);
+@import url(./resetCss.css);
+@import url(./banner.css);
+@import url(./sections.css);
+
+@font-face {
+  font-family: "cartoon";
+  src: url("../assets/Cartoon\ Slam.ttf");
+}
